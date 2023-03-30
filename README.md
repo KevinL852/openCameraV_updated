@@ -7,6 +7,7 @@ How to install the plugin:
 2. Open the "FiveM Application Data" folder and navigate to the "plugins" folder. If you don't have a plugins folder, create one.
 3. Drag & drop the "openCameraV_b2802.asi" into the plugins folder and you should be good to go.
 
+
 This version of the plugin is compatible with the following gamebuilds;
 - 1604
 - 2060
