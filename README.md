@@ -1,3 +1,6 @@
+# openCameraV_b2802
+openCameraV for FiveM 'updated' for gamebuild 2802
+
 This is an 'updated' version of OpenIVs openCameraV plugin.
 
 This plugin removes the camera distance limits in the Rockstar Editor so you can move your camera anywhere without hitting the red 'out of bounds' barrier.
