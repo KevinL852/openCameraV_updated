@@ -1,5 +1,5 @@
-# openCameraV_b2802
-openCameraV for FiveM 'updated' for gamebuild 2802
+# openCameraV_updated
+openCameraV for FiveM 'updated' for gamebuild 2944
 
 This is an 'updated' version of OpenIVs openCameraV plugin.
 
@@ -8,7 +8,7 @@ This plugin removes the camera distance limits in the Rockstar Editor so you can
 How to install the plugin:
 1. Download the .asi and extract the .zip to your desktop. (Click green 'Code' button and select 'Download ZIP')
 2. Open the "FiveM Application Data" folder and navigate to the "plugins" folder. If you don't have a plugins folder, create one.
-3. Drag & drop the "openCameraV_b2802.asi" into the plugins folder and you should be good to go.
+3. Drag & drop the "openCameraV_updated.asi" into the plugins folder and you should be good to go.
 
 
 This version of the plugin is compatible with the following gamebuilds;
@@ -20,3 +20,4 @@ This version of the plugin is compatible with the following gamebuilds;
 - 2612
 - 2699
 - 2802
+- 2944
