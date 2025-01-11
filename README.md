@@ -21,3 +21,5 @@ This version of the plugin is compatible with the following gamebuilds;
 - 2699
 - 2802
 - 2944
+- 3095
+- 3258
