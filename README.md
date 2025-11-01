@@ -1,5 +1,5 @@
 # openCameraV_updated
-openCameraV for FiveM 'updated' for use up to gamebuild 3407
+openCameraV for FiveM 'updated' for use up to gamebuild 3570
 
 This is an 'updated' version of OpenIVs openCameraV plugin.
 
@@ -24,3 +24,4 @@ This version of the plugin is compatible with the following gamebuilds;
 - 3095
 - 3258
 - 3407
+- 3570
