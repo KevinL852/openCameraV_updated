@@ -1,5 +1,5 @@
 # openCameraV_updated
-openCameraV for FiveM 'updated' for use up to gamebuild 3717 (mp2025_02) 'A Safehouse in the Hills'
+openCameraV for FiveM 'updated' for use up to gamebuild 3751 (mp2025_02) 'A Safehouse in the Hills'
 
 This is an 'updated' version of OpenIVs openCameraV plugin.
 
@@ -27,3 +27,4 @@ This version of the plugin is compatible with the following gamebuilds;
 - 3407
 - 3570
 - 3717
+- 3751
